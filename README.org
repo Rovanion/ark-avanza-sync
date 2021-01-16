@@ -1,0 +1,6 @@
+* ARK Invest Avanza portfolio syncronizer
+ARK Invest is an american exchange traded fund. In europe we are not allowed to own shares in ETF's. Ark Invest seems to be making good investment decisions, leading to some europeans wanting to invest in it even though they are prohibited from doing so without opening an american bank account.
+
+This tool is meant to help with the above conundrum by looking cross referencing [[https://ark-funds.com/wp-content/fundsiteliterature/holdings/ARK_GENOMIC_REVOLUTION_MULTISECTOR_ETF_ARKG_HOLDINGS.pdf][ARK Invests published holdings]] with your current holdins on Avanza, a Swedish bank.
+
+Varför den här texten är skriven på engelska vet jag ärligt talat inte i efterhand, men så är det.
